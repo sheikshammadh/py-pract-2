@@ -1,0 +1,6 @@
+its a container to store the data.
+rule:
+   1.shouldnt starts with numbers, special characters.
+   2.starts with under score(_)
+   3.keywords are not taken as variables.
+   

@@ -1,0 +1,6 @@
+used for the understanding the code.
+it is of two types:
+    1.single line comments.
+    2.multiple line comments.
+key words:
+inbuilteed keywords(35)

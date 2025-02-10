@@ -1,0 +1,23 @@
+interpreter:Definition: An interpreter translates and executes source code line by line.
+
+Execution: The program is translated and executed line by line.
+
+Speed: Slower execution compared to a compiler since translation happens during execution.
+
+Error Handling: Errors are identified and reported one line at a time, making it easier to debug small sections of code.
+
+Output: Doesn't generate an executable file. It directly executes the source code.
+
+Examples of Interpreted Languages: Python, JavaScript, Ruby, and PHP.
+
+compiler: Definition: A compiler translates the entire source code of a program into machine code (object code) before execution.
+
+Execution: The entire program is translated at once and then executed.
+
+Speed: Since the translation is done once and for all, the execution of the compiled program is faster.
+
+Error Handling: Errors are identified during the compilation process, and the program won't run until all errors are fixed.
+
+Output: Generates an executable file (e.g., .exe).
+
+Examples of Compiled Languages: C, C++, Rust, and Go.
