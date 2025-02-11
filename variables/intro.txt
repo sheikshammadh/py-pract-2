@@ -1,0 +1,7 @@
+variables are the containers of store valures
+snake case:
+underscore(_) lies in between two words.
+pascal case:
+each word starts with capital case
+camel case:
+except 1st word remaining starts with capital word.

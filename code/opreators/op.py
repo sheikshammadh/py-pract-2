@@ -1,3 +1,5 @@
+# operators:
+# ===============================
 # arithmetic 
 # assingments
 # logical
@@ -12,3 +14,10 @@
 # y=x
 # print(x is y)
 
+# a=10,20,30
+# print(sum(a))
+
+# a=int(input("enter the number:"))
+# b=int(input("enter the number:"))
+# c=a+b
+# print(c)
