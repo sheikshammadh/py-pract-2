@@ -1,0 +1,23 @@
+functions ia a block if code it will execute only when it called.
+2 types:
+    1.buil-in functions( print,)
+    2.user defined functions(name, num....etc.)
+
+Arguments
+Definition: Actual values or data you pass to the function's parameters when calling the function.
+Purpose: They provide the function with the specific information it needs to operate
+
+Parameters:
+Definition: Variables listed inside the parentheses in the function definition.
+Purpose: They act as placeholders for the values that will be passed to the function.
+
+difference btwn parameters and Arguments:
+Parameters
+Definition: Parameters are the variables defined by a function or method that receive values when the function is called.
+Scope: Parameters exist only within the scope of the function definition.
+Purpose: They act as placeholders or variables that hold the data passed to the function.
+
+Arguments
+Definition: Arguments are the actual values or data you provide to the function's parameters when you invoke the function.
+Scope: Arguments exist in the context where the function is called.
+Purpose: They provide specific values that the function needs to execute its logic.
