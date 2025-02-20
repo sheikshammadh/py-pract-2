@@ -1,0 +1,8 @@
+inbuilt datastructure
+ doesnt allow duplicates.
+un ordered.
+heterogenous
+enclosed with curly braces
+
+set methods:
+add()
